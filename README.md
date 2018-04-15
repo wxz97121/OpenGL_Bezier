@@ -1,2 +1,2 @@
 # OpenGL_Bezier
-A s
+A simple Bezier by GLUT.
